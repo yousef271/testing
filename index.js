@@ -11,6 +11,8 @@ document.addEventListener("DOMContentLoaded", function() {
     }
 });
 
+setTimeout(true[randomIndex], 10000);
+
 while (true) {
     console.log("catching informating")
 }
